@@ -37,6 +37,27 @@ int main() {
 
     return 0;
 }
+OUTPUT:Enter number of elements to push (max 5): 3
+1.Enter value 1: 10
+Enter value 2: 20
+Enter value 3: 30
+Stack elements: 10 20 30
+2.Enter number of elements to push (max 5): 5
+Enter value 1: 1
+Enter value 2: 2
+Enter value 3: 3
+Enter value 4: 4
+Enter value 5: 5
+Stack elements: 1 2 3 4 5
+3.Enter number of elements to push (max 5): 7
+Enter value 1: 10
+Enter value 2: 20
+Enter value 3: 30
+Enter value 4: 40
+Enter value 5: 50
+You can only push up to 5 elements.
+
+Stack elements: 10 20 30 40 50
 
 
 
