@@ -25,6 +25,11 @@ int main() {
     if(!found) printf("Element not found\n");
     return 0;
 
+OUTPUT:
+Size of array :2
+Enter Elements of array:1,2
+Enter Element to find 1
+Elements found at Position :1
 
 
 
@@ -33,4 +38,4 @@ int main() {
 
 
 
-}
+
